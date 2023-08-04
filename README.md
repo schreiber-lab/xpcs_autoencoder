@@ -5,8 +5,7 @@
 The package provides the source code used in the following scientific publication: 
 
 [1] _Automated matching of two-time X-ray photon correlation maps from protein dynamics with Cahn-Hilliard type simulations using autoencoder networks_   
-S. Timmermann, V. Starostin, A. Girelli, A. Ragulskaya, H. Rahmann, M. Reiser, N. Begam, L. Randolph, M. Sprung, F. Westermeier, F. Zhang, F. Schreiber, and C. Gutt. Preprint at 
-[https://arxiv.org/abs/2106.11787 (2021)](https://arxiv.org/abs/2106.11787).
+S. Timmermann, V. Starostin, A. Girelli, A. Ragulskaya, H. Rahmann, M. Reiser, N. Begam, L. Randolph, M. Sprung, F. Westermeier, F. Zhang, F. Schreiber, and C. Gutt. (2022). J. Appl. Cryst. 55, 751-757 [https://doi.org/10.1107/S1600576722004435](https://doi.org/10.1107/S1600576722004435).
 
 ## Installation
 
